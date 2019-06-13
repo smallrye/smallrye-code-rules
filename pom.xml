@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0"
-	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-	<modelVersion>4.0.0</modelVersion>
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
 
-	<parent>
-		<groupId>io.smallrye</groupId>
-		<artifactId>smallrye-parent</artifactId>
-		<version>6</version>
-	</parent>
+    <parent>
+        <groupId>io.smallrye</groupId>
+        <artifactId>smallrye-parent</artifactId>
+        <version>6</version>
+    </parent>
 
-	<artifactId>smallrye-code-rules</artifactId>
-	<version>1-SNAPSHOT</version>
+    <artifactId>smallrye-code-rules</artifactId>
+    <version>1-SNAPSHOT</version>
 
-	<name>SmallRye: Code Rules</name>
-	<description>SmallRye: Code Rules</description>
-	<url>http://smallrye.io</url>
+    <name>SmallRye: Code Rules</name>
+    <description>SmallRye: Code Rules</description>
+    <url>http://smallrye.io</url>
 
-	<packaging>jar</packaging>
+    <packaging>jar</packaging>
 
-	<build>
+    <build>
 
-		<resources>
-			<resource>
-				<directory>src/main/resources</directory>
-				<filtering>false</filtering>
-			</resource>
-		</resources>
+        <resources>
+            <resource>
+                <directory>src/main/resources</directory>
+                <filtering>false</filtering>
+            </resource>
+        </resources>
 
-	</build>
+    </build>
 
 </project>
