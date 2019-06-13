@@ -9,7 +9,7 @@
     </parent>
 
     <artifactId>smallrye-code-rules</artifactId>
-    <version>1</version>
+    <version>1-SNAPSHOT</version>
 
     <name>SmallRye: Code Rules</name>
     <description>SmallRye: Code Rules</description>
