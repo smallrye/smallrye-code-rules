@@ -4,7 +4,7 @@
 
     <groupId>io.smallrye</groupId>
     <artifactId>smallrye-code-rules</artifactId>
-    <version>2</version>
+    <version>3-SNAPSHOT</version>
 
     <name>SmallRye: Code Rules</name>
     <description>SmallRye: Code Rules</description>
@@ -60,7 +60,7 @@
         <connection>scm:git:git@github.com:smallrye/smallrye-code-rules.git</connection>
         <developerConnection>scm:git:git@github.com:smallrye/smallrye-code-rules.git</developerConnection>
         <url>git@github.com:smallrye/smallrye-code-rules.git</url>
-        <tag>2</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <profiles>
